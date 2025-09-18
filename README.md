@@ -1,5 +1,5 @@
 # Data_Science_Projects
-This is my repository for data visualization section of netlfix dataset in which i designed different charts accordingly to the dataset.
+This is my repository for data visualization section of netlfix dataset in which i designed different charts accordingly to the netflix dataset.
 # Netflix Movies and TV Shows Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
@@ -62,7 +62,7 @@ Ensure you have Python and Jupyter Notebook installed. We recommend using [Anaco
 ### Steps to Run the Project
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/netflix-data-analysis.git
+    git clone https://github.com/Syed Wasia Ali Shah/netflix-data-analysis.git
     cd netflix-data-analysis
     ```
 
@@ -136,7 +136,7 @@ This project is licensed under the MIT License. The dataset was sourced from Kag
 
 Created by SYED WASIA ALI SHAH - feel free to contact me!
 
-*   GitHub: [Syed Wasia Ali Shah](https://github.com/your-username)
+*   GitHub: [Syed Wasia Ali Shah](https://github.com/Syed Wasia Ali Shah)
 *   Email: syedwasay899@gmail.com
 
 ---
