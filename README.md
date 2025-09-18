@@ -136,7 +136,7 @@ This project is licensed under the MIT License. The dataset was sourced from Kag
 
 Created by SYED WASIA ALI SHAH - feel free to contact me!
 
-*   GitHub: [Syed Wasia Ali Shah](https://github.com/Syed Wasia Ali Shah)
+*   GitHub: Syed Wasia Ali Shah(https://github.com/Syed Wasia Ali Shah)
 *   Email: syedwasay899@gmail.com
 
 ---
